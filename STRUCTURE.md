@@ -4,11 +4,11 @@ NYC-Taxi-Data-Science-Project/
 ├── data/
 │   └── sample_data.csv (or link to TLC dataset)
 ├── notebooks/
-│   ├── 01_preliminary_eda.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_statistical_analysis_ab_testing.ipynb
-│   ├── 04_regression_model.ipynb
-│   └── 05_ml_model_tipping.ipynb
+│   ├── Data_Inspection_and_Analysis.ipynb
+│   ├── Exploratory_data_analysis.ipynb
+│   ├── statistical_analysis_ab_testing.ipynb
+│   ├── regression_model.ipynb
+│   └── ml_model_tipping.ipynb
 ├── visuals/
 │   ├── eda_scatter.png
 │   ├── regression_results.png
